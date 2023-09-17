@@ -216,7 +216,7 @@ nav{
 @media screen and (max-width:992px) {
 	.navbar-brand{
 		font-size: 32px;
-		margin-bottom: 10px;
+		
 	}
 	.nav-link:focus, .nav-link:hover {
 		color:#669aaf;
@@ -244,8 +244,8 @@ nav{
 	font-size: 16px;
 	position: absolute;
     right: 20%;
-	top: 18px;
-	;
+	top: 5px;
+	
 
 }
 .nav-item{
