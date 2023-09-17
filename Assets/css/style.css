@@ -219,7 +219,7 @@ nav{
 		
 	}
 	.navbar-collapse {
-		height: 100vh;
+		height: 90vh;
 		overflow-y: auto;
 	}
 	.nav-link:focus, .nav-link:hover {
