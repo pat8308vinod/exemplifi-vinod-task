@@ -219,7 +219,7 @@ nav{
 		
 	}
 	.navbar-nav{
-		height: auto;
+		height: 100svh;
 		overflow-y: auto;
 	}
 	.nav-link:focus, .nav-link:hover {
@@ -295,7 +295,7 @@ nav{
 }
 .hero{
 	
-	min-height: 500px;
+	min-height: 100svh;
 
 }
 .heading{
