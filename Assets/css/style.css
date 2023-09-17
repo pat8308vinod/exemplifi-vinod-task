@@ -218,8 +218,8 @@ nav{
 		font-size: 32px;
 		
 	}
-	.navbar-nav{
-		height: auto;
+	.navbar-collapse {
+		height: 100vh;
 		overflow-y: auto;
 	}
 	.nav-link:focus, .nav-link:hover {
