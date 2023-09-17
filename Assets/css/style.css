@@ -219,7 +219,7 @@ nav{
 		
 	}
 	.navbar-nav{
-		height: 100svh;
+		height: auto;
 		overflow-y: auto;
 	}
 	.nav-link:focus, .nav-link:hover {
