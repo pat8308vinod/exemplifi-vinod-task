@@ -238,13 +238,13 @@ nav{
 	.search-icon
 {
 	background: #f88e75;
-	padding: 5px 12px;
+	padding: 7px 12px;
 	border-radius: 50%;
 	color: #ffffff;
-	font-size: 24px;
+	font-size: 16px;
 	position: absolute;
     right: 20%;
-	top: 10px;
+	top: 18px;
 	;
 
 }
