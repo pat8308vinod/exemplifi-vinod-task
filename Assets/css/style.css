@@ -218,6 +218,10 @@ nav{
 		font-size: 32px;
 		
 	}
+	.navbar-nav{
+		height: auto;
+		overflow-y: auto;
+	}
 	.nav-link:focus, .nav-link:hover {
 		color:#669aaf;
 	}
@@ -244,7 +248,7 @@ nav{
 	font-size: 16px;
 	position: absolute;
     right: 20%;
-	top: 5px;
+	top: 10px;
 	
 
 }
